@@ -1,3 +1,3 @@
 # Recipes
 
-- [Sourdough Crackers](sourdough_crackers.md)
+- [Sourdough Crackers](sourdough-crackers.md)
