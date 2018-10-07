@@ -14,9 +14,8 @@ Makes 10 pancakes
 
 ### Instructions
 1. In a large bowl, whisk together the flour, baking powder and soda, sugar and salt.
-
 2. Add the sourdough starter, milk, egg and oil. Mix well just until combined.
-
-3. Make pancakes as usual
+3. Let rise for an hour or more in refrigerator
+4. Make pancakes as usual
 
 Adapted from [Taste of Lizzy T](https://www.tastesoflizzyt.com/sourdough-pancakes/)
