@@ -18,3 +18,5 @@ Makes 10 pancakes
 2. Add the sourdough starter, milk, egg and oil. Mix well just until combined.
 
 3. Make pancakes as usual
+
+Adapted from [Taste of Lizzy T](https://www.tastesoflizzyt.com/sourdough-pancakes/)
