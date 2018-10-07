@@ -7,3 +7,4 @@
 ### Discard Starter Recipes
 - [Crackers](sourdough/crackers.md)
 - [Pancakes](sourdough/pancakes.md)
+- [Pizza Crust](sourdough/pizza-crust.md)
