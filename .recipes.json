@@ -1,0 +1,38 @@
+{
+	"recipes": {
+		"alouettes-sans-tetes": "alouettes-sans-tetes.yaml",
+		"fruit-crumble": "fruit-crumble.yaml",
+		"mandel-bread": "mandel-bread.yaml",
+		"sourdough-crackers": "sourdough-crackers.yaml",
+		"thanksgiving-stuffing": "thanksgiving-stuffing.yaml"
+	},
+	"collections": {
+		"Main Course": {
+			"recipes": [{
+				"key": "alouettes-sans-tetes",
+				"label": "Alouettes Sans Tetes"
+			}]
+		},
+		"Dessert": {
+			"recipes": [{
+				"key": "mandel-bread",
+				"label": "Mandel Bread"
+			}, {
+				"key": "fruit-crumble",
+				"label": "Fruit Crumble"
+			}]
+		},
+		"Thanksgiving": {
+			"recipes": [{
+				"key": "thanksgiving-stuffing",
+				"label": "Thanksgiving Stuffing"
+			}]
+		},
+		"Snacks": {
+			"recipes": [{
+				"key": "sourdough-crackers",
+				"label": "Sourdough Discard Crackers"
+			}]
+		}	
+	}
+}

@@ -1,0 +1,64 @@
+# Adapted from https://www.kingarthurflour.com/recipes/sourdough-crackers-recipe
+author: King Arthur Flour
+recipe: Sourdough Discard Crackers
+spec: v0.1.1
+tags: sourdough
+sevings: 8
+
+steps:
+  - description: Mix all ingredients into dough
+    ingredients:
+      - item: Flour
+        amount: 1
+        unit: cup
+      - item: Discard Starter
+        amount: 1
+        unit: cup
+      - item: Salt
+        amount: 0.5
+        unit: tsp
+      - item: Butter (room temperature)
+        amount: 0.25
+        unit: cup
+      - item: Herbs or Spices (Everything Bagel Seasoning works well)
+        amount: 2
+        unit: tbsp
+    equipment:
+      - item: Bowl
+
+  - description: Divide dough in half and wrap each half in platic wrap
+    equipment:
+      - item: Plastic wrap
+
+  - description: Refrigerate (at least 30 minnutes)
+    prepTime:
+      amount: 30
+      unit: minutes
+
+  - description: Preheat oven to 350°F
+    equipment:
+      - item: Oven
+
+  - description: Roll out dough as thin as possible
+    equipment:
+      - item: Rolling Pin
+      - item: Baking Sheet
+
+  - description: Cut dough into strips and prick with tines of a fork.
+    equipment:
+      - item: Fork
+      - item: Knife
+
+  - description: Brush lightly with oil and sprinkle seasoning on top
+    equipment:
+      - item: Brush
+
+  - description: Bake for 30 minutes
+    cookTime:
+      amount: 30
+      unit: minutes
+
+  - description: Transfer to cooling rack
+    equipment:
+      - item: Cooling Rack
+

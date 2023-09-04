@@ -1,0 +1,65 @@
+author: Sam Skrnich
+recipe: Thanksgiving Stuffing
+spec: v0.1.1
+tags: thanksgiving
+servings: 8
+
+steps:
+
+  - description: Put the dry bread cubes in a large mixing bowl
+    ingredients:
+      - item: Plain bread, cubed
+        amount: 12
+        unit: oz
+    equipment:
+      - item: large mixing bowl
+
+  - description: Saute the sausage in a frying pan (no oil) and then put it in
+    the casserole dish with the bread
+    ingredients:
+      - item: Italian sausage, broken up and without casing
+        quantity: 1.75
+        unit: lbs
+    equipment:
+      item: frying pan
+
+  - description: Individually saute the celery, onions, apples and mushrooms in
+    the pan with oil (butter for apples), mixing each in to the bread after cooking
+    ingredients:
+      - item: Butter
+      - item: Olive oil
+      - item: Celery (sliced thin)
+        amount: 2
+        unit: cup
+      - item: Yellow Onion (diced)
+        amount: 2
+        unit: cup
+      - item: Mushrooms (sliced)
+        amount: 24
+        unit: oz
+      - item: Apples (sliced thin)
+        amount: 3
+
+  - description: Add chicken stock and herbs to the mix until the bread is
+    barely softened (it should keep its shape)
+    ingredients:
+      - item: Chicken stock
+        max: 16
+        unit: oz
+      - item: Sage
+      - item: Parsley
+
+  - description: Grease a baking pan with butter
+    equipment:
+      - item: baking pan
+
+  - description: Bake covered for 30 minutes at 350F
+    cookTime:
+      amount: 30
+      unit: minute
+
+  - description: Bake uncovered for 45 minutes
+    cookTime:
+      amount: 45
+      unit: minute
+

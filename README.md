@@ -1,13 +1,4 @@
 # Recipes
 
-- [Fruit Crumble](fruit-crumble.md)
-- [Mandel Bread](mandel-bread.md)
-- [Spent Grain Beer Bread](spent-grain-bread.md)
-- [Alouettes Sans Tête](alouettes-sans-tete.md)
-- [Thanksgiving Stuffing](thanksgiving-stuffing.md)
+The YAML and JSON recipe files here use [Dishout](http://dishout.recipes/). You can browse them by going to http://dishout.recipes/g/raemadeline/recipes.
 
-### Discard Starter Recipes
-
-- [Crackers](sourdough/crackers.md)
-- [Pancakes](sourdough/pancakes.md)
-- [Pizza Crust](sourdough/pizza-crust.md)

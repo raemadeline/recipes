@@ -1,0 +1,61 @@
+# Adapted from https://www.bonappetit.com/recipe/summer-fruit-crisp
+author: Bon Appetit
+recipe: Fruit Crumble
+spec: v0.1.1
+tags: dessert, fruit
+servings: 4
+
+steps:
+  - description: Preheat oven to 375°F
+    equipment:
+      - item: Oven
+
+  - description: Mix flour, sugar, salt, and oats together in a large bowl
+    ingredients:
+      - item: All Purpose Flour
+        amount: 0.33
+        unit: cup
+      - item: Light brown sugar
+        amount: 0.25
+        unit: cup
+      - item: Salt
+        amount: 0.5
+        unit: tsp
+      - item: Oats
+        amount: 1
+        unit: cup
+
+  - description: Mash butter into the flour mixture
+    ingredients:
+      - item: Butter, chilled and cut into pieces
+        amount: 0.5
+        unit: cup
+
+  - description: Mix fruit, granulated sugar, cornstatch, citrus zest and juice
+    or vinegar together along with a pinch of salt in an oven safe dish
+    ingredients:
+      - item: Sliced Fruit (Fresh or Frozen)
+        amount: 8
+        unit: cup
+      - item: Granulated Sugar
+        amount: 1
+        unit: cup
+      - item: cornstarch
+        amount: 2
+        unit: tbsp
+      - item: citrus zest
+        amount: 1
+        unit: tsp
+      - item: citrus juice or balsamic vinegar
+        amount: 2
+        unit: tbsp
+    equipment:
+      - item: pyrex or similar baking dish
+
+  - description: Scatter oat topping on the fruit filling
+  
+  - description: Bake for one hour (or until golden brown)
+    cookTime:
+      amout: 1
+      unit: hour 
+
