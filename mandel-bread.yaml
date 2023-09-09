@@ -1,0 +1,66 @@
+author: Grandpa Larry
+recipe: Mandel Bread
+spec: v0.1.1
+tags: dessert, gonick
+servings: 12
+
+steps:
+  - description: Preheat oven to 350° F
+    equipment:
+      - item: Oven
+
+  - description: In a large bowl (or stand mixer) mix oil and sugar
+    ingredients:
+      - item: vegetable oil
+        amount: 1
+        unit: cup
+      - item: granulated sugar
+        amount: 1
+        unit: cup
+    equipment:
+      - item: large bowl
+      - item: mixing spoon or whisk
+
+  - description: Beat in eggs, flour, and baking powder
+    ingredients:
+      - item: Large Eggs
+        amount: 3
+      - item: Flour
+        amount: 3
+        unit: cup
+      - item: Baking Powder
+        amount: 1
+        unit: tsp
+
+  - description: Fold in Vanilla and Chocolate Chips
+    ingredients:
+      - item: Vanilla Extract
+        amount: 1
+        unit: tsp
+      - item: Chocolate Chips
+        amount: 6
+        unit: oz
+
+  - description: Form loaf on baking sheet
+    equipment:
+      - item: baking sheet
+      - item: silplat or parchment paper
+
+  - description: Sprinkle with cinnamon sugar
+    ingredients:
+      - item: cinnamon sugar
+
+  - description: Bake for 30 minutes
+    cookTime:
+      amount: 30
+      unit: minute
+
+  - description: Remove from oven and slice into strips
+    equipment:
+      - item: Oven Mitts
+      - item: Knife
+
+  - description: Cook for another 10 minutes
+    cookTime:
+      amount: 10
+      unit: minute

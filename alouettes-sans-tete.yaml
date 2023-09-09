@@ -1,0 +1,64 @@
+author: Grandmaman
+recipe: Alouettes Sans Tête
+spec: v0.1.1
+tags: dinner, meat
+servings: 2
+
+steps:
+  - description: Boil Eggs
+    ingredients:
+      - item: Eggs
+        amount: 1
+    equipment:
+      - item: Saucepan
+    cookTime:
+      amount: 7
+      unit: minute
+  - description: Mash eggs with olive oil, parsley, garlic, salt and pepper
+    ingredients:
+      - item: olive oil
+      - item: parsley
+      - item: garlic
+     equipment:
+       - item: bowl
+       - item: fork
+  - description: Flatten meat
+    ingredients:
+      - item: beef squares, about 10cm/4inches per side, sliced thin
+        amount: 4
+    equipment:
+      - item: Meat Tenderizer
+      - item: Cutting Board
+  - description: Assemble the Alouettes: spoon egg mix inside of the beef and
+    then close it like a burrito, wrap in bacon and tie with twine.
+    ingredients:
+      - item: bacon
+        amount: 4
+    equipment:
+      - item: twine
+  - description: Brown the rolls, then fish them out and put them aside
+    ingredients:
+      - item: olive oil
+    equipment:
+      - item: A pot you can brown things and also make a stew in
+  - description: Make a roux in the pot by lightly browning butter and mixing
+    in flour
+    ingredients:
+      - item: butter
+        amount: 1
+        unit: tbsp
+      - item: flour
+        amount: 1
+        unit: tbsp
+    equipment:
+      - item: whisk
+  - description: pour in wine and stock (or water) and mix until the roux is
+    fully incorporated and then put rolls back in and simmer until the sauce
+    thickens
+    ingredients:
+      - item: wine
+        amount: 0.25
+        unit: cup
+      - item: water or stock
+        amount: 0.75
+        unit: cup
