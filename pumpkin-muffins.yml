@@ -1,0 +1,67 @@
+author: Maddie, adapted from Jenny Bullistron via AllRecipes
+recipe: Pumpkin Muffins
+spec: v0.1.1
+tags: dessert
+servings: 16
+
+steps:
+  - description: Preheat oven to 375° F and grease muffin tin
+    equipment:
+      - item: Oven
+      - item: Muffin Tin
+
+  - description: In a large bowl (or stand mixer) mix pumpkin puree and brown sugar
+    ingredients:
+      - item: Pumpkin Puree
+        amount: 1
+        unit: 15 ounce can
+      - item: Brown Sugar
+        amount: 1
+        unit: cup
+    equipment:
+      - item: large bowl
+      - item: mixing spoon or whisk
+
+  - description: Beat in melted butter, vanilla, and eggs
+    ingredients:
+      - item: Butter
+        amount: 1.5
+        unit: stick
+      - item: Vanilla extract
+        amount: 1
+        unit: tsp
+      - item: Large Eggs
+        amount: 2
+
+  - description: Sift in all dry ingredients
+    ingredients:
+      - item: Flour
+        amount: 2
+        unit: cup
+      - item: Baking Soda
+        amount: 1.5
+        unit: tsp
+      - item: Salt
+        amount: 0.5
+        unit: tsp
+      - item: Cinnamon
+        amount: 0.5
+        unit: tsp
+      - item: Pumpkin Pie Spice
+        amount: 1
+        unit: tsp
+
+  - description: Fold in nuts
+    ingredients:
+      - item: Walnuts and/or Pumpkin Seeds
+        amount: 1
+        unit: cup
+
+  - description: Bake for 20 minutes
+    cookTime:
+      amount: 20
+      unit: minute
+
+  - description: Remove from oven and let cool
+    equipment:
+      - item: Oven Mitts
