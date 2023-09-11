@@ -4,7 +4,8 @@
 		"fruit-crumble": "fruit-crumble.yaml",
 		"mandel-bread": "mandel-bread.yaml",
 		"sourdough-crackers": "sourdough-crackers.yaml",
-		"thanksgiving-stuffing": "thanksgiving-stuffing.yaml"
+		"thanksgiving-stuffing": "thanksgiving-stuffing.yaml",
+		"pumpkin-muffins": "pumpkin-muffins.yml"
 	},
 	"collections": {
 		"Main Course": {
@@ -20,6 +21,9 @@
 			}, {
 				"key": "fruit-crumble",
 				"label": "Fruit Crumble"
+			}, {
+				"key": "pumpkin-muffins",
+				"label": "Pumpkin Muffins"
 			}]
 		},
 		"Thanksgiving": {
