@@ -5,7 +5,7 @@
 		"mandel-bread": "mandel-bread.yaml",
 		"sourdough-crackers": "sourdough-crackers.yaml",
 		"thanksgiving-stuffing": "thanksgiving-stuffing.yaml",
-		"pumpkin-muffins": "pumpkin-muffins.yml"
+		"pumpkin-muffins": "pumpkin-muffins.yaml"
 	},
 	"collections": {
 		"Main Course": {
